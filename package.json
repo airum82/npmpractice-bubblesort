@@ -1,0 +1,26 @@
+{
+  "name": "@airum82/npmpractice-bubblesort",
+  "version": "1.0.0",
+  "description": "first npm creation",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {
+    "mocha": "^5.2.0",
+    "chai": "^4.1.2"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/airum82/npmpractice-bubblesort.git"
+  },
+  "author": "Arram Mandel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/airum82/npmpractice-bubblesort/issues"
+  },
+  "homepage": "https://github.com/airum82/npmpractice-bubblesort#readme"
+}
